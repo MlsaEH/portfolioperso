@@ -1,0 +1,1 @@
+<center><img src="/public/images/sign.png" /></center>
